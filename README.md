@@ -11,7 +11,8 @@ compile 'com.android.support:support-v4:24.2.1'
 compile 'com.android.support:design:24.2.1'
 compile 'com.android.support:appcompat-v7:24.2.1'
 ```
-
+### Screenshots
+<img src="https://user-images.githubusercontent.com/19184453/80916213-f92b5e80-8d5f-11ea-8fa3-51f393dcccd0.png" width="200" height="350"> <img src="https://user-images.githubusercontent.com/19184453/80916260-3b54a000-8d60-11ea-98d9-fe3491798e78.png" width="200" height="350"> <img src="https://user-images.githubusercontent.com/19184453/80916276-5a533200-8d60-11ea-9bee-f5c60eaef3c7.png" width="200" height="350"/>
 
 ## Authors
 
