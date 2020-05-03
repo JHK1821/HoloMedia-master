@@ -1,5 +1,5 @@
 # HoloMedia
-An Android e- application  for displaying visual media as holograms. The user can use a voice command to search for a video and with the help of an external tool to view it in three-dimensional space.
+An Android application  for displaying visual media as holograms. The user can use a voice command to search for a video and with the help of an external tool to view it in three-dimensional space.
 This is a university project.
 
 ## Getting Started
