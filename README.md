@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 minSdkVersion 23
 targetSdkVersion 26
+```
+```
 compile 'com.android.support:support-v4:26.1.0'
 compile 'com.android.support:design:26.1.0'
 compile 'com.android.support:appcompat-v7:26.1.0'
